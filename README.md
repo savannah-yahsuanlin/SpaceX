@@ -19,6 +19,9 @@ This is responsive design app. Thus, you can run in vary device.
 <img width="1439" alt="Screen Shot 2022-08-24 at 1 09 55 AM" src="https://user-images.githubusercontent.com/12411476/186221802-71e17b80-15dc-4fd2-8aec-d1b08f4a67c6.png">
 <img width="1440" alt="Screen Shot 2022-08-24 at 1 10 05 AM" src="https://user-images.githubusercontent.com/12411476/186221816-13e3b73d-d374-4ba2-b42a-d2397363193d.png">
 
+### Accordion
+<img width="1431" alt="Screen Shot 2022-08-24 at 10 53 29 AM" src="https://user-images.githubusercontent.com/12411476/186310125-7795af38-46a1-4f51-94aa-bbb56d9d8bb3.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
